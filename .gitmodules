@@ -1,0 +1,3 @@
+[submodule "external-packages/c3-ts-mode"]
+	path = external-packages/c3-ts-mode
+	url = https://github.com/c3lang/c3-ts-mode.git
